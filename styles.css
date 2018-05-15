@@ -1,8 +1,7 @@
 body{
     font-family: 'lato', sans-serif;
-    background: #xxxxxx;
-    
-}
+    background: #d3d3d3;
+    }
 
 h2,p,.readme-wrapper {
     text-align: center;
@@ -11,6 +10,19 @@ h2,p,.readme-wrapper {
 
 a {
 text-decoration: none;
-
 color:red;
+}
+
+.boxes{
+    display:inline-block;
+    margin:1em;
+    padding:1em;
+    border:1px solid black;
+    border-radius:10px;
+}
+
+a:hover{
+    color:yellow;
+    font-weight: 700;
+    cursor: pointer;
 }
