@@ -14,7 +14,7 @@ color:red;
 }
 
 .boxes{
-    display:inline-block;
+    display:block;
     margin:1em;
     padding:1em;
     border:1px solid black;
@@ -25,4 +25,29 @@ a:hover{
     color:yellow;
     font-weight: 700;
     cursor: pointer;
+}
+
+span{
+    font-weight: 700;
+    color:orange;
+}
+
+div{
+    width=20%;
+}
+
+#box1{
+    background: pink;
+}
+
+#box2{
+    background: white;
+}
+
+#box3{
+    background:burlywood;
+}
+
+#box4{
+    background: peachpuff;
 }
