@@ -1,0 +1,16 @@
+body{
+    font-family: 'lato', sans-serif;
+    background: #xxxxxx;
+    
+}
+
+h2,p,.readme-wrapper {
+    text-align: center;
+    
+}
+
+a {
+text-decoration: none;
+
+color:red;
+}
