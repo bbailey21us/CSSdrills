@@ -19,6 +19,8 @@ color:red;
     padding:1em;
     border:1px solid black;
     border-radius:10px;
+    width:20%;
+   
 }
 
 a:hover{
@@ -32,16 +34,17 @@ span{
     color:orange;
 }
 
-div{
-    width=20%;
-}
+
 
 #box1{
     background: pink;
+    
 }
 
 #box2{
     background: white;
+    
+  
 }
 
 #box3{
@@ -50,4 +53,44 @@ div{
 
 #box4{
     background: peachpuff;
+}
+
+.imagediv{
+    
+    background: blue;
+    width:2em;
+    height: 2em;
+}
+
+h1{
+    color:red;
+
+}
+
+.tv{
+    color:yellow;
+}
+
+.nottv{
+    color: yellowgreen;
+}
+
+#tv1{
+    color:blue;
+}
+
+#tv2{
+    color:red;
+}
+
+#tv3{
+    color:black;
+}
+
+#tv4{
+    color:yellow;
+}
+
+#tv5{
+    color:pink;
 }
